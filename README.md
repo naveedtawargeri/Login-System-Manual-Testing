@@ -102,7 +102,7 @@ The Login Module was tested to verify authentication functionality, field valida
 
 \* 06.Testing Type Coverage Report.xlsx
 
-\* Screenshots Folder
+\* loginscreenimage
 
 
 
